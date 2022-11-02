@@ -2,7 +2,7 @@
 <h3 align="left">A passionate ML dev</h3>
 I completed my bachelor of engineering degree in CS from VTU, India. I am now pursuing my MS CS degree from the George Washingtion University, D.C.
 
-👩‍💻 I love learning new techologies. I am especially into deep learned real-time 3D RTR. I wrote a technical paper on this topic, delving into Neural Super Sampling and DLSS. You can find my paper <a href = "https://ieeexplore.ieee.org/document/9441822" target = "_blank"><ins>here</ins></a>
+👩‍💻 I love learning new techologies. I am especially into deep learned real-time 3D RTR. I wrote a technical paper on this topic, delving into Neural Super Sampling and DLSS. You can find my paper <a href = "https://ieeexplore.ieee.org/document/9441822" target ="_blank">here</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
